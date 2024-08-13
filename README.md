@@ -43,26 +43,27 @@ Execute the SQL queries provided in the project to interact with the database an
 SQL Queries Overview
 The project includes a set of SQL queries that perform the following tasks:
 
-1.Count the number of customer entities in the Orders table.
-2.Find the number of unique customers in the Orders table.
-3.Group customers by country and count how many are in each.
-4.Filter customers based on whether they are from Brazil or the USA.
-5.Group customers by country and city, then count them.
-6.Find addresses containing the word "da".
-7.Identify customers living in Germany-Berlin.
-8.Filter customers in Canada whose names contain "in".
-9.List products with prices between $40 and $90.
-10.Find product names, prices, and squares of the prices for items over $30.
-11.List the CategoryIDs in the Products table.
-12.Calculate the average price of products in the "Beverages" category.
-13.Find total earnings from customers living in the USA.
-14.Calculate the average product price per category.
-15.List employees by their total sales.
-16.Find the average prices of orders from Germany by category.
-17.Calculate average prices of orders from Germany and the USA by category.
-18.Find the average price of orders placed in June, July, and August.
-19.List the maximum quantities of customer orders for 1997.
-20.List employees with orders from 1997, sorted by the number of orders.
+1. Count the number of customer entities in the Orders table.  
+2. Find the number of unique customers in the Orders table.  
+3. Group customers by country and count how many are in each.  
+4. Filter customers based on whether they are from Brazil or the USA.  
+5. Group customers by country and city, then count them.  
+6. Find addresses containing the word "da".  
+7. Identify customers living in Germany-Berlin.  
+8. Filter customers in Canada whose names contain "in".  
+9. List products with prices between $40 and $90.  
+10. Find product names, prices, and squares of the prices for items over $30.  
+11. List the CategoryIDs in the Products table.  
+12. Calculate the average price of products in the "Beverages" category.  
+13. Find total earnings from customers living in the USA.  
+14. Calculate the average product price per category.  
+15. List employees by their total sales.  
+16. Find the average prices of orders from Germany by category.  
+17. Calculate average prices of orders from Germany and the USA by category.  
+18. Find the average price of orders placed in June, July, and August.  
+19. List the maximum quantities of customer orders for 1997.  
+20. List employees with orders from 1997, sorted by the number of orders.  
+
 Usage
 Interactive Execution:
 
