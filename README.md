@@ -62,7 +62,9 @@ The project includes a set of SQL queries that perform the following tasks:
 17. Calculate average prices of orders from Germany and the USA by category.  
 18. Find the average price of orders placed in June, July, and August.  
 19. List the maximum quantities of customer orders for 1997.  
-20. List employees with orders from 1997, sorted by the number of orders.  
+20. List employees with orders from 1997, sorted by the number of orders.
+
+I have also included the solutions of the sample data operations here as code in the project.
 
 Usage
 Interactive Execution:
