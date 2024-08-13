@@ -1,4 +1,4 @@
-# SQLite_python_project
+# SQLite_Data_Project
 
 This project demonstrates the use of SQLite with SQL to perform various SQL operations on a dataset containing 8 different tables. The operations range from simple queries to more complex data analysis tasks.
 
